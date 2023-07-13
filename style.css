@@ -5,6 +5,7 @@ body {
   color: #2d2d2d;
   background-color: #f7f6ea;
   margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 .section::before {
@@ -56,13 +57,4 @@ a:hover {
 
 br {
   display: none;
-}
-
-#method ol li  {
-  padding-bottom: 20px;
-}
-
-#method ol li ul li  {
-  padding-top: 10px;
-  padding-bottom: 0px !important;
 }
